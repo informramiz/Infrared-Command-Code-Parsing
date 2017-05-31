@@ -44,7 +44,7 @@ System.out.println(code1.equals(command1Encoded) == true);
 
 ## Class Details
 
-- **Command.java: ** A plain Old Java Object (POJO) to hold command data in object form.
-- **Encoder.java: ** Class to Encode and Decoded infrared commands code.
-- **MyUtils.java: ** A simple utils class of my own. Although there are good libraries available to do the same but as my requirement was very simple so I did not use any.
-- **Main.java: ** Class containing `main` function and code I used to test this class.
+- **Command.java:** A plain Old Java Object (POJO) to hold command data in object form.
+- **Encoder.java:** Class to Encode and Decoded infrared commands code.
+- **MyUtils.java:** A simple utils class of my own. Although there are good libraries available to do the same but as my requirement was very simple so I did not use any.
+- **Main.java:** Class containing `main` function and code I used to test this class.
